@@ -1,9 +1,9 @@
 {
   "name": "react-component-export-view",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "export component as jpeg, png, pdf",
   "main": "dist/index.js",
-  "types": "main.d.ts",
+  "types": "index.d.ts",
   "scripts": {
     "build": "webpack --mode production",
     "build:analyze": "webpack --profile --json > webpack-stats.json && webpack-bundle-analyzer webpack-stats.json ./dist"
