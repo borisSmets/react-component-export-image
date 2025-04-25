@@ -94,6 +94,8 @@ const exportComponent = (node, {
     });
 };
 
+
+
 /**
  * @param  {React.RefObject} node
  * @param  {string} fileName='component.png'

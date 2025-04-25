@@ -1,4 +1,4 @@
-# react-component-export-image
+# react-component-export-view
 
 ## Demo [Codesandbox](https://codesandbox.io/s/nostalgic-poincare-7xfrl?file=/src/App.js)
 
