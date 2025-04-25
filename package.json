@@ -20,14 +20,14 @@
     "jpeg",
     "pdf"
   ],
-  "author": "Salman Siddiqui",
+  "author": "Boris Smets",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/salman-monetate/react-component-export-image/issues"
+    "url": "https://github.com/borisSmets/react-component-export-image/issues"
   },
-  "homepage": "https://github.com/salman-monetate/react-component-export-image#readme",
+  "homepage": "https://github.com/borisSmets/react-component-export-image#readme",
   "dependencies": {
-    "html2canvas": "^1.0.0-rc.7",
+    "html2canvas-pro": "^1.0.5",
     "jspdf": "^2.3.1"
   },
   "devDependencies": {
