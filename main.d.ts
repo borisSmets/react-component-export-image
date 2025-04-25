@@ -1,4 +1,4 @@
-declare module 'react-component-export-image' {
+declare module 'react-component-export-view' {
     import { Options } from 'html2canvas';
     import { RefObject, ReactInstance } from 'react';
 

@@ -126,7 +126,7 @@ export default MyComponent;
 ## Installation
 
 ```bash
-npm i react-component-export-image
+npm i react-component-export-view
 or
-yarn add react-component-export-image
+yarn add react-component-export-view
 ```
