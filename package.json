@@ -1,6 +1,6 @@
 {
   "name": "react-component-export-view",
-  "version": "1.0.21",
+  "version": "1.0.23",
   "description": "export component as jpeg, png, pdf",
   "main": "dist/index.js",
   "types": "main.d.ts",

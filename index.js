@@ -71,7 +71,7 @@ const exportComponent = (node, {
         throw new Error("'node' must be a RefObject")
     }
 
-    const element = ReactDOM.findDOMNode(node.current);
+    const element = node.current;
     return html2canvas(element, {
         scrollY: -window.scrollY,
         useCORS: true,
